@@ -1,0 +1,11 @@
+C:\Users\ebrua\Desktop\vizesoru\9\9\bin\Debug\9.exe.config
+C:\Users\ebrua\Desktop\vizesoru\9\9\bin\Debug\9.exe
+C:\Users\ebrua\Desktop\vizesoru\9\9\bin\Debug\9.pdb
+C:\Users\ebrua\Desktop\vizesoru\9\9\obj\Debug\9.csproj.AssemblyReference.cache
+C:\Users\ebrua\Desktop\vizesoru\9\9\obj\Debug\9.csproj.SuggestedBindingRedirects.cache
+C:\Users\ebrua\Desktop\vizesoru\9\9\obj\Debug\_9.Form1.resources
+C:\Users\ebrua\Desktop\vizesoru\9\9\obj\Debug\_9.Properties.Resources.resources
+C:\Users\ebrua\Desktop\vizesoru\9\9\obj\Debug\9.csproj.GenerateResource.cache
+C:\Users\ebrua\Desktop\vizesoru\9\9\obj\Debug\9.csproj.CoreCompileInputs.cache
+C:\Users\ebrua\Desktop\vizesoru\9\9\obj\Debug\9.exe
+C:\Users\ebrua\Desktop\vizesoru\9\9\obj\Debug\9.pdb
